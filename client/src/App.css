@@ -1,0 +1,14 @@
+.margint{
+    margin-top:10px;
+} 
+
+.square{
+    padding: 2px;
+    font-weight:bold;
+   
+    width:33px;
+    height:33px;
+}
+.row_board{
+    display:flex;
+}
